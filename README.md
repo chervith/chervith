@@ -1,7 +1,7 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTca9BorPLWAV5Mol8mZbEf76E7-aQsIJX2yw&usqp=CAU)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0dTQamB6TuPzp96QgLJkJP37pwXGufuG8g&usqp=CAUo)]
 <h1 align="center">Hi 👋, I'm Chervith</h1>
 <h3 align="center">Diligent and keen Security Delivery Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+<img align="right" alt="Coding" width="200" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chervith&label=Profile%20views&color=0e75b6&style=flat" alt="chervith" /> </p>
 
